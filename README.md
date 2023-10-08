@@ -1,0 +1,2 @@
+# coisyfast
+FastAPI base application
